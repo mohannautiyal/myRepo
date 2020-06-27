@@ -18,4 +18,9 @@ System.out.println("Sample print statement34");
 
 		
 	}
+	
+	public void AddMethod() {
+		System.out.println("Adding");
+
+	}
 }
