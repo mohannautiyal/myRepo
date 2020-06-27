@@ -7,4 +7,9 @@ public class MathematicalOps {
 		System.out.println("Sample print statement");
 		
 	}
+	
+	public void AddMethod() {
+		System.out.println("Adding");
+
+	}
 }
