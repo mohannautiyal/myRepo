@@ -10,7 +10,7 @@ public class MathematicalOps {
 		
 		System.out.println("Sample print statement");
 
-System.out.println("Sample print statement3");
+System.out.println("Sample print statement34");
 		
 		System.out.println("Sample print statement2");
 
