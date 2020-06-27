@@ -8,5 +8,7 @@ public class MathematicalOps {
 		System.out.println("Sample another print statement");
 
 		
+		System.out.println("Sample print statement");
+		
 	}
 }
